@@ -1,0 +1,1 @@
+"D:\pentaho installation\data-integration\Kitchen.bat" /file:"D:\Users\amuku\DataLearn\DE\DataLearn mod_ETL\Pentaho_Begginer_JobsTransformations\introduction_pentaho\final_job.kjb" /level:Basic
